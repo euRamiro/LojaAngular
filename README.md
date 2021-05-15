@@ -5,7 +5,7 @@
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/euRamiro/LojaAngular"/>
 
-<img alt="ultimo commit" src="https://img.shields.io/github/last-commit/euRamiro/CadastroProdutoSprinLojaAngulargBoot"/>
+<img alt="ultimo commit" src="https://img.shields.io/github/last-commit/euRamiro/LojaAngular"/>
   
 <img alt="licensa" src="https://img.shields.io/github/license/euRamiro/LojaAngular"/>  
   </a>
